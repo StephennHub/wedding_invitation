@@ -1,0 +1,99 @@
+{
+  "site": {
+    "title": "Stanley & Hephzibah — Wedding Invitation",
+    "description": "Join Stanley & Hephzibah as they begin their journey together.",
+    "ogImage": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1200&q=80",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Jost:wght@300;400;500;600&family=Parisienne&display=swap"
+  },
+
+  "wedding": {
+    "couple": {
+      "groom": "Stanley",
+      "bride": "Hephzibah",
+      "initials": "S & H",
+      "full": "STANLEY & HEPHZIBAH"
+    },
+
+    "date": "2026-10-14T10:00:00",
+
+    "venue": "Sangamam Mahal",
+    "city": "Coimbatore",
+
+    "ceremony": {
+      "title": "Holy Matrimony",
+      "start": "2026-10-14T10:00:00",
+      "end": "2026-10-14T11:30:00"
+    },
+
+    "reception": {
+      "title": "Reception",
+      "start": "2026-10-14T12:00:00",
+      "end": "2026-10-14T15:00:00"
+    }
+  },
+
+  "links": {
+    "googleMapsUrl": "https://maps.app.goo.gl/BGdq1jMKZMpSTAhN6"
+  },
+
+  "blessings": {
+
+    "form": {
+      "action": "https://docs.google.com/forms/d/e/1FAIpQLSdtic-oJ2tZrBIxcQIgTgyXjKdx6pt8O40r6nlKlp8wnq0Dwg/formResponse",
+
+      "fields": {
+        "name": "entry.1758493339",
+        "message": "entry.1463749932",
+        "verse": "entry.1370723653"
+      }
+    },
+
+    "sheet": {
+      "id": "11pCzET4HctBq_Y5a4HEuOn_FFTpeyZ2tR-fDem0j3Rg",
+      "gid": "0"
+    },
+
+    "display": {
+      "maxCards": 50,
+      "refreshInterval": 30000
+    }
+
+  },
+
+  "media": {
+
+    "audioSrc": "src/audio/wedding-song.mp3",
+
+    "galleryImages": [
+      {
+        "src": "src/images/gallery/sample_1.webp",
+        "alt": "Engagement portrait",
+        "tall": true
+      },
+      {
+        "src": "src/images/gallery/sample_2.webp",
+        "alt": "Bride portrait"
+      },
+      {
+        "src": "src/images/gallery/sample_3.webp",
+        "alt": "Groom portrait",
+        "tall": true
+      },
+      {
+        "src": "src/images/gallery/sample_4.webp",
+        "alt": "Couple portrait"
+      },
+      {
+        "src": "src/images/gallery/sample_5.webp",
+        "alt": "couple glowing in the sunset",
+        "tall": true
+      },
+      {
+        "src": "src/images/gallery/sample_6.webp",
+        "alt": "couple walking in the park",
+        "tall": true
+      }
+    ]
+
+  }
+}
